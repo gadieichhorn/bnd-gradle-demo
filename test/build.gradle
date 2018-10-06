@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id "biz.aQute.bnd.builder"
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile project(':api')
+
+    compile group: 'org.osgi', name: 'osgi.annotation', version: '6.0.1'
+    compile group: 'org.osgi', name: 'osgi.core', version: '6.0.0'
+    compile group: 'org.osgi', name: 'osgi.cmpn', version: '6.0.0'
+
+}

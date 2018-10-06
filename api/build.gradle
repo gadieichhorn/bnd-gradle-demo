@@ -1,0 +1,16 @@
+plugins {
+    id "biz.aQute.bnd.builder"
+}
+
+group 'com.rds.demo.bnd'
+
+sourceCompatibility = 1.8
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile group: 'org.osgi', name: 'osgi.annotation', version: '6.0.1'
+    compile group: 'org.osgi', name: 'osgi.core', version: '6.0.0'
+
+}
+
