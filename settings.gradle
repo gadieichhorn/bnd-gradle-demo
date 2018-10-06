@@ -8,3 +8,6 @@
  */
 
 rootProject.name = 'bnd-gradle-demo'
+
+include 'api'
+include 'test'
