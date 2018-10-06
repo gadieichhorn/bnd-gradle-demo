@@ -9,5 +9,8 @@
 
 rootProject.name = 'bnd-gradle-demo'
 
+include '_index'
+include '_distro'
+
 include 'api'
 include 'test'

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="_index_main" target="1.8" />
+      <module name="_index_test" target="1.8" />
       <module name="api_main" target="1.8" />
       <module name="api_test" target="1.8" />
       <module name="demo.event-source.api_main" target="1.8" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":_index" external.linked.project.path="$MODULE_DIR$/../../_index" external.root.project.path="$MODULE_DIR$/../../test" external.system.id="GRADLE" external.system.module.group="bnd-gradle-demo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../_index">
+      <excludeFolder url="file://$MODULE_DIR$/../../_index/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../_index/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../_index/out" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

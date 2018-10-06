@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/_distro.iml" filepath="$PROJECT_DIR$/.idea/modules/_distro.iml" group="_distro" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/_index.iml" filepath="$PROJECT_DIR$/.idea/modules/_index.iml" group="_index" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/570418571/_index_main.iml" filepath="$PROJECT_DIR$/.idea/modules/570418571/_index_main.iml" group="_index" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/570418571/_index_test.iml" filepath="$PROJECT_DIR$/.idea/modules/570418571/_index_test.iml" group="_index" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api.iml" group="api" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api_main.iml" group="api" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api_test.iml" group="api" />

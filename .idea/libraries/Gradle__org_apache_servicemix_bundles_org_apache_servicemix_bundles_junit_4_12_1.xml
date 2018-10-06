@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.servicemix.bundles:org.apache.servicemix.bundles.junit:4.12_1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit/4.12_1/bff4106cb0bb14a5718c40a5d2b04b98ddc6e643/org.apache.servicemix.bundles.junit-4.12_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.servicemix.bundles/org.apache.servicemix.bundles.junit/4.12_1/6ce74af8fb537b93f221c24f8b7ece9252b2fe6c/org.apache.servicemix.bundles.junit-4.12_1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
